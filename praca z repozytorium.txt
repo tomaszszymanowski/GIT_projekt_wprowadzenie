@@ -1,0 +1,16 @@
+GIT œledzi zmiany dokonywane w plikach projektu
+jakie pliki zosta³y zmienione dotychczas mo¿na sprawdziæ za pomoc¹ komendy 
+
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        stworzenie_repozytorium.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+pliki oznaczone jako "untracked" ich historia zmian nie jest jeszcze œledzona i dokumentowana przez GIT
+ten stan zmienia siê za pomoc¹ koment git add . (kropka dodaje wszystkie pliki do œledzenie mo¿na wybraæ konkretny plik wpisuj¹c jego nazwê)
+ i git commit -m "  " tworzy commit czyli pewnego rodzaju kopiê dotychczasowych zmian w "" mo¿na wpisaæ opis commit czyli czego dotyczy lub jakie zmiany zawiera
