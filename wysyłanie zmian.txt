@@ -1,0 +1,14 @@
+kiedy commit zosta³ zrobiony, czas wys³aæ zmiany na zdalne repozytorium
+
+$ git push
+
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 815 bytes | 815.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/tomaszszymanowski/GIT_projekt_wprowadzenie.git
+   44a6c8a..e2b594c  master -> master
+
+w tym momencie kod jest wys³any na zdalne repozytorium gdzie zmiany pojawi¹ siê po chwili. 
