@@ -1,0 +1,12 @@
+GIT jest popularnym "rozporoszonym systemem kontroli wersji"
+w oparciu o repozytoria mo¿na przechowywaæ kod na zwnêtrznym serwerze (GitHub)
+
+  Repozytorium mo¿na stworzyæ na dwa sposoby
+1. Stworzyæ nowe repopzytorium na platformie Github 
+   nastêpnie w miejscu doceleowym na dysku twardym wywo³aæ konsolê GIT i wpisaæ komendê
+>git clone <adres url zdalnego repozytorium>
+
+2. Stworzyæ na dysku twardym katalog z projektem i nastêpnie u¿yæ komendy
+>git init
+
+od tego momentu GIt zacznie œledziæ zmiany w projekcie i pozwoli na ich przesy³anie.
